@@ -29,6 +29,7 @@
         "@mendix/pluggable-widgets-tools": "^8.3.1",
         "@react-native-community/async-storage": "1.5.1",
         "@react-native-community/netinfo": "3.2.1",
+        "@mendix/pluggable-widgets-typing-generator": "mendix/pluggable-widgets-typing-generator#feat/datasource",
         "@types/big.js": "^4.0.5",
         "@types/classnames": "^2.2.4",
         "@types/dotenv": "^6.1.1",
